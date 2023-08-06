@@ -7,7 +7,7 @@
 
 # Files
 Objective of each file: 
-- data preprocessing.ipynb: Raw data extraction and data preparation. Cleaned data will be stored in cleaned_data.db.
+- data_preparation.ipynb: Raw data extraction and data preparation. Cleaned data will be stored in cleaned_data.db.
 - eda.ipynb: Data visualisation and analysis using the cleaned data. 
 
 
