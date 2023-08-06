@@ -3,7 +3,7 @@
 
 # Dataset
 - Dataset used in this exercise comes from a Public API for Covid-19 data by Johns Hopkins CSSE: https://github.com/axisbits/covid-api
-- Supplementary dataset to map region to country’s iso: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
+- Supplementary dataset to map country’s iso to region: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
 
 # Files
 Objective of each file: 
