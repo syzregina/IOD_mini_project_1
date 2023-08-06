@@ -7,7 +7,7 @@
 
 # Files
 Objective of each file: 
-- data_preparation.ipynb: Raw data extraction and data preparation. Cleaned data will be stored in cleaned_data.db.
-- eda.ipynb: Data visualisation and analysis using the cleaned data. 
+- data_preparation.ipynb: Raw data extraction and data preparation. Cleaned data will be stored in iod_project_1_data.db.
+- eda.ipynb: Data visualisation and analysis using the cleaned data from iod_project_1_data.db. 
 
 
